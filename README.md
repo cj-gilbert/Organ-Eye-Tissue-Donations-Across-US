@@ -49,4 +49,4 @@ NOTE: The original collection of the OPTN data was supported in part by Health R
 
 • **Visualizing data:** used Tableau to create a dashboard allowing others to explore this data via interactive choropleth maps, double-bar charts, pie charts, tables, and line charts: https://public.tableau.com/app/profile/cj.gilbert/viz/ExploringOrganEyeandTissueDonationsintheU_S_/DonationsAcrosstheUS
 
-• **Documenting processes:** provided an Excel file that documented the data population flow, all pre-processing steps (consistency checks, data wrangling, and column derivations), before-and-after-merging data dictionaries, and a copy of the final, fully-merged data set. 
+• **Documenting processes:** provided an Excel file that documented the data population flow, all pre-processing steps (consistency checks, data wrangling, and column derivations), before-and-after-merging data dictionaries, and a copy of the final, fully-merged data set: https://tinyurl.com/yrpdheda
