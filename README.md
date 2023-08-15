@@ -12,11 +12,13 @@ A project using Jupyter Notebooks to clean, merge, analyze and finally visualize
 • Create a Tableau dashboard that gives others an overview of the analysis completed during this project and allows others to explore the data further: https://public.tableau.com/app/profile/cj.gilbert/viz/ExploringOrganEyeandTissueDonationsintheU_S_/DonationsAcrosstheUS
 
 ### DATA
-Organ donor data retrieved from the Organ Procurement & Transplant Network on May 25, 2023 via  https://optn.transplant.hrsa.gov/data/view-data-reports/build-advanced/ 
+**Organ donor data retrieved from the Organ Procurement & Transplant Network on May 25, 2023**
 
-NOTE: The collection of the OPTN data was supported in part by Health Resources and Services Administration contract HHSH250-2019-00001C. The content is the responsibility of the authors alone and does not necessarily reflect the views or policies of the Department of Health and Human Services, nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government.
+Data retrieved via  https://optn.transplant.hrsa.gov/data/view-data-reports/build-advanced/ 
 
-Population data retrieved from the U.S. Census Bureau via two data sets on July 3, 2023:
+NOTE: The original collection of the OPTN data was supported in part by Health Resources and Services Administration contract HHSH250-2019-00001C. The content is the responsibility of the authors alone and does not necessarily reflect the views or policies of the Department of Health and Human Services, nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government.
+
+**Population data retrieved from the U.S. Census Bureau via two data sets on July 3, 2023:**
 
 "Annual State Resident Population Estimates for 6 Race Groups (5 Race Alone Groups and Two or More Races) by Age, Sex, and Hispanic Origin: April 1, 2010 to July 1, 2019 [<1.0 MB]" https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/asrh/sc-est2019-alldata6.csv 
 
